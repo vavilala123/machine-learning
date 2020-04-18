@@ -1,15 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  8 19:26:33 2020
-
-@author: tharunivavilala
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr  4 07:34:55 2020
-
-@author: Lucky
-"""
 
 
 # ' Dual Degree Bachelor of Technology - Master of Technology (Mechanical Engineering)'
